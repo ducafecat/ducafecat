@@ -5,23 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ducafecat" alt="ducafecat" /></a> </p>
 
-- 🔭 我尝试通过 flutter 收费课落地 [猫哥视频站](https://ducafecat.com)
+- 🔭 我正在尝试通过 flutter 实战课落收费 [猫哥视频站](https://ducafecat.com)
 
-- 🌱 I’m currently learning **成为独立开发者**
+- 🌱 正在学习如何成为 **成为独立开发者**
 
-- 👯 我持续更新 flutter 视频 [油管](https://www.youtube.com/@ducafecat)
+- 👯 持续更新 flutter 视频 [油管](https://www.youtube.com/@ducafecat) , [b站](https://space.bilibili.com/404904528)
 
-- 🤝 创建了 flutter 插件站 [flutter 插件站](https://flutter.ducafecat.com)
+- 🤝 编写了 flutter 插件站 [flutter 插件站](https://flutter.ducafecat.com)
 
-- 👨‍💻 All of my projects are available at [https://flutter.ducafecat.com/logo.svg](https://flutter.ducafecat.com/logo.svg)
+- 💬 可以问我 **go, flutter, vue, docker**
 
-- 📝 I regularly write articles on [https://ducafecat.com/blog](https://ducafecat.com/blog)
+- 📫 组建了 flutter 开发者社区 **微信开发群 wx:ducafecat**
 
-- 💬 Ask me about **go, flutter, vue, docker**
-
-- 📫 我组建了 flutter 开发者社区 **微信开发群 wx:ducafecat**
-
-- 📄 Know about my experiences [https://github.com/ducafecat](https://github.com/ducafecat)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
